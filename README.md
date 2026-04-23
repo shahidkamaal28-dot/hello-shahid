@@ -1,2 +1,2 @@
-# hello-shahid_kamal
+# hello-shahid
 This repository is for practicing the GitHub Flow.
